@@ -1,0 +1,28 @@
+body{
+    background-color: aquamarine;
+    background-image: url("files/images/logo/Gemini_Generated_Image_twnn0etwnn0etwnn (1).png");
+    color:white;
+    text-align: center;
+}
+p{
+    text-align: center;
+    color:white;
+}
+table{
+    border-collapse:collapse;
+    background:white;
+    border-radius:12px;
+    overflow:hidden;
+    box-shadow:0 4px 15px rgba(0,0,0,0.2);
+}
+th{
+     background:#2563eb;
+    color:white;
+    padding:18px;
+    font-size:20px;
+}
+td{
+    padding:16px;
+    border-bottom:1px solid #ddd;
+    font-size:18px;
+}
